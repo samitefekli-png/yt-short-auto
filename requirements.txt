@@ -1,0 +1,7 @@
+Flask
+celery
+redis
+google-cloud-texttospeech
+google-api-python-client
+pexels-api
+moviepy
